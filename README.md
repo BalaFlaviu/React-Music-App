@@ -1,2 +1,3 @@
 ﻿# React-Music-App
-![71qf6v](https://user-images.githubusercontent.com/103333665/203327523-71d1764a-610d-4788-919a-0e824dfdb0a7.gif)
+
+![71qgyd](https://user-images.githubusercontent.com/103333665/203330221-c2dd718b-15d1-47a3-a6e2-3ae51447738f.gif)
